@@ -1,0 +1,21 @@
+#main {
+  display: block;
+  max-width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: LimeGreen;
+  font-family: 'Raleway';
+}
+#title {
+  background-color: Orange;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%
+}
+label {
+  font-size: 16px;
+}
+#radioform {
+  display: flex;
+}
